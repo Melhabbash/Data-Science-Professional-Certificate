@@ -1,0 +1,2 @@
+library(dslabs)
+data(murders)
