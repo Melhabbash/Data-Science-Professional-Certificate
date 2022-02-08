@@ -1,1 +1,0 @@
-https://www.kaggle.com/c/tabular-playground-series-dec-2021/data?select=train.csv
